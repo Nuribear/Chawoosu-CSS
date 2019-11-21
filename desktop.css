@@ -106,7 +106,7 @@ input[type='text'] {
 
 /* 배경 색상 */
 html {
-  background: linear-gradient(to bottom, #A0BAED, #466093);
+  background: -webkit-linear-gradient(282deg, #000000 6%,#162338 26%,#6f26a2 39%,#ef5fcd 58%,#ffabb1 90%);
   height: auto !important;
 }
 
