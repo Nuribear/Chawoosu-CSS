@@ -247,6 +247,10 @@ header #header-bar>.row {
   box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
+header #header-bar #header-top-notice strong.notice-badge {
+  background: #466093;
+}
+
 /* 트게더 전체메뉴 / 유용한링크 / 트위치 스케쥴 */
 #main .menu-wrapper {
   box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.2);
