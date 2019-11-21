@@ -122,7 +122,7 @@ body {
 /*오른쪽하단 캐릭터(창 해상도 의존 사이즈 변경)*/
 body:after {
   content: "";
-  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/562295867155939371/123123123123.png);
+  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/647021301138980884/647bc3cdd3538dff.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: right bottom;
@@ -134,19 +134,9 @@ body:after {
   bottom : 0px;
   z-index: -2;
 }
-@media ( max-width: 1850px ) {
+@media ( min-width: 1601px ) {
   body:after {
-    background-size: 350px auto;
-  }
-}
-@media ( max-width: 1770px ) {
-  body:after {
-    background-size: 300px auto;
-  }
-}
-@media ( max-width: 1700px ) {
-  body:after {
-    background-size: 250px auto;
+    background-size: 225px auto;
   }
 }
 @media ( max-width: 1600px ) {
