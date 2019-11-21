@@ -354,7 +354,7 @@ header #header-bar #header-top-notice strong.notice-badge {
   border: 2px solid;
   border-radius: 15px;
   margin: 4px 5px;
-  padding: 8px 10px;
+  padding: 8px 7.5px;
   background: #ffffff00;
 }
 #article-list #article-list-category>a.active, #article-list #article-list-category>a:hover{
