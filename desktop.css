@@ -172,21 +172,6 @@ body:after {
 
 /* 헤더 */
 
-/*상단 우수님*/
-header:before {
-  content: "";
-  height: 100px;
-  width: 100px;
-  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/562531743333220363/ef.png);
-  background-size: 100px;
-  letter-spacing: -0.05em !important;
-  position: absolute;
-  left : 420px;
-  right : 0px;
-  top : -9.6px;
-  margin: auto;
-}
-
 /* 좌측상단 로고 */
 header .row>div:nth-child(1)>a {
   display: block;
