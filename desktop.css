@@ -332,7 +332,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 /*카테고리*/
 #article-list #article-list-category {
   border-top: 2px solid #F09290;
-  background: -webkit-linear-gradient(110deg, #a0abff 0%,#e1eaff 11%,#ffffff 20%,#ffffff 40%,#ffffff 85%,#cbd3e6 93%,#ffffff 100%);
+  background: -webkit-linear-gradient(110deg, #f09290 0%,#ffe1ec 11%,#ffffff 20%,#ffffff 40%,#ffffff 85%,#f19a998a 94%,#ffffff 100%);
   border-radius: 15px
 }
 #article-list #article-list-category>a {
@@ -349,12 +349,12 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 /*공지부분*/
 #article-list>.article-list-row.notice {
-  background: -webkit-linear-gradient(110deg, #a0abff 0%,#e1eaff 11%,#ffffff 20%,#ffffff 40%,#ffffff 85%,#cbd3e6 93%,#ffffff 100%);
+  background: -webkit-linear-gradient(110deg, #f09290 0%,#ffe1ec 11%,#ffffff 20%,#ffffff 40%,#ffffff 85%,#f19a998a 94%,#ffffff 100%);
   border-radius: 12px;
 }
 /*인기글*/
 #article-list>.article-list-row.hot {
-  background: -webkit-linear-gradient(110deg, #a0abff 0%,#e1eaff 11%,#ffffff 20%,#ffffff 40%,#ffffff 85%,#cbd3e6 93%,#ffffff 100%);
+  background: -webkit-linear-gradient(110deg, #f09290 0%,#ffe1ec 11%,#ffffff 20%,#ffffff 40%,#ffffff 85%,#f19a998a 94%,#ffffff 100%);
   border-radius: 12px;
 }
 
