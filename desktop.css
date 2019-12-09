@@ -122,7 +122,7 @@ body {
 /*오른쪽하단 캐릭터(창 해상도 의존 사이즈 변경)*/
 body:after {
   content: "";
-  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/647021301138980884/647bc3cdd3538dff.png);
+  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/653524511160926208/1_1.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: right bottom;
