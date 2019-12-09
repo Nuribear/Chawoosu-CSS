@@ -134,9 +134,24 @@ body:after {
   bottom : 0px;
   z-index: -2;
 }
-@media ( min-width: 1601px ) {
+@media ( min-width: 1851px ) {
   body:after {
-    background-size: 225px auto;
+    background-size: 350px auto;
+  }
+}
+@media ( max-width: 1850px ) {
+  body:after {
+    background-size: 350px auto;
+  }
+}
+@media ( max-width: 1770px ) {
+  body:after {
+    background-size: 300px auto;
+  }
+}
+@media ( max-width: 1700px ) {
+  body:after {
+    background-size: 250px auto;
   }
 }
 @media ( max-width: 1600px ) {
