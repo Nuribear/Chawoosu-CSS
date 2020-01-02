@@ -67,7 +67,7 @@ select.form-control,
 input[type=checkbox],
 input[type=radio],
 .opt  {
-  cursor: url(https://cdn.discordapp.com/attachments/391626822779011076/661958957111181372/036c17fd4938ad3c.gif) 0 0, url(https://cdn.discordapp.com/attachments/391626822779011076/661965379005972511/3380e05d1af8cb52.png) 0 0,auto !important;
+  cursor: url(https://cdn.discordapp.com/attachments/391626822779011076/661965379005972511/3380e05d1af8cb52.png) 0 0,auto !important;
 }
 
 /* 커서-링크 */
@@ -92,7 +92,7 @@ input[type=radio],
 .fr-popup .fr-image-upload-layer .fr-form,
 .pull-left,
 a {
-  cursor: url(https://cdn.discordapp.com/attachments/391626822779011076/661958934617260042/09e5931c600393ea.gif) 0 0, url(https://cdn.discordapp.com/attachments/391626822779011076/661965431078125578/45a4969aedda6f9d.png) 0 0, auto !important;
+  cursor: url(https://cdn.discordapp.com/attachments/391626822779011076/661965431078125578/45a4969aedda6f9d.png) 0 0, auto !important;
 }
 
 /* 커서-텍스트 */
@@ -101,7 +101,7 @@ span#viewers,
 .fr-box.fr-basic.fr-element,
 textarea.fr-code,
 input[type='text'] {
-  cursor: url(https://cdn.discordapp.com/attachments/391626822779011076/661958971334197288/726972f8d5ab1a8f.gif) 0 0, url(https://cdn.discordapp.com/attachments/391626822779011076/661965442604335154/27abea04602a31d2.png) 0 0, auto !important;
+  cursor: url(https://cdn.discordapp.com/attachments/391626822779011076/661965442604335154/27abea04602a31d2.png) 0 0, auto !important;
 }
 
 /* 배경 색상 */
