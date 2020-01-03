@@ -49,8 +49,8 @@
 
 /* 배경 비 이동 */
 @keyframes rainMov {
-  0% {background-position: 0px 0px, 0px 0px;}
-  100% {background-position: 50000px 110000px, 40000px 79000px;}
+  0% {background-position: 0px 0px;}
+  100% {background-position: 5000px 11000px;}
 }
 
 /* 마우스 커서 */
@@ -116,8 +116,8 @@ body {
   letter-spacing: -0.05em !important;
   background: transparent;
   font-family: 'Nanum Gothic', sans-serif;
-  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/565159811457613824/rain-re3.png), url();
-  animation: rainMov 250s linear infinite;
+  background-image: url(https://cdn.discordapp.com/attachments/391626822779011076/565159811457613824/rain-re3.png);
+  animation: rainMov 25s linear infinite;
 }
 
 /*오른쪽하단 캐릭터(창 해상도 의존 사이즈 변경)*/
